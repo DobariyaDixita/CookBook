@@ -1,6 +1,5 @@
 package com.example.noteapp.di
 
-import android.provider.SyncStateContract
 import androidx.lifecycle.ViewModelProvider
 import com.example.cookbook.data.remote_source.Api
 import com.example.cookbook.data.repository.RepositoryImpl
